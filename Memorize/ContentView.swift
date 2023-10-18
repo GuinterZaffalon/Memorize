@@ -18,6 +18,7 @@ struct ContentView: View {
         .foregroundColor(Color.orange)
         .font(Font.largeTitle)
         }
+     
     }
 
 struct CardView: View{
@@ -37,24 +38,6 @@ struct CardView: View{
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #Preview {
     ContentView()
